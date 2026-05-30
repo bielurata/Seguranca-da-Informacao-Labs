@@ -32,13 +32,14 @@ chmod +x pingsweep.sh
 
 ### parsing.sh
 
-chmod +x parsing.sh
+chmod +x parsing.sh -> 
 ./parsing.sh https://exemplo.com
 
 ### resolverdns.c
 
-gcc resolverdns.c -o resolverdns
+gcc resolverdns.c -o resolverdns -> 
 ./resolverdns google.com
+
 ## Objetivo
 
 Praticar conceitos de redes, automação, reconhecimento de ambientes e programação de redes.
