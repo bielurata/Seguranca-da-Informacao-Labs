@@ -22,7 +22,23 @@ Repositório contendo laboratórios e projetos desenvolvidos durante minha gradu
 ### Linguagem C
 
 * resolverdns.c
+  
+## Como executar
 
+### pingsweep.sh
+
+chmod +x pingsweep.sh
+./pingsweep.sh
+
+### parsing.sh
+
+chmod +x parsing.sh
+./parsing.sh https://exemplo.com
+
+### resolverdns.c
+
+gcc resolverdns.c -o resolverdns
+./resolverdns google.com
 ## Objetivo
 
 Praticar conceitos de redes, automação, reconhecimento de ambientes e programação de redes.
